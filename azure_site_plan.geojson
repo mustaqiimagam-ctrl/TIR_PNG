@@ -31,8 +31,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.001",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.001"
       }
     },
     {
@@ -65,8 +64,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.002",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.002"
       }
     },
     {
@@ -99,8 +97,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.003",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.003"
       }
     },
     {
@@ -133,8 +130,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.004",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.004"
       }
     },
     {
@@ -167,8 +163,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.005",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.005"
       }
     },
     {
@@ -201,8 +196,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.006",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.006"
       }
     },
     {
@@ -235,8 +229,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.007",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.007"
       }
     },
     {
@@ -269,8 +262,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.008",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.008"
       }
     },
     {
@@ -303,8 +295,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.009",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.009"
       }
     },
     {
@@ -337,8 +328,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.010",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.010"
       }
     },
     {
@@ -371,8 +361,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.011",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.011"
       }
     },
     {
@@ -405,8 +394,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.012",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.012"
       }
     },
     {
@@ -439,8 +427,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.013",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.013"
       }
     },
     {
@@ -473,8 +460,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.014",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.014"
       }
     },
     {
@@ -507,8 +493,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.015",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.015"
       }
     },
     {
@@ -541,8 +526,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R1.RU.016",
-        "cluster_code": "TIR"
+        "id": "TIR.R1.RU.016"
       }
     },
     {
@@ -575,8 +559,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.001",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.001"
       }
     },
     {
@@ -609,8 +592,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.002",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.002"
       }
     },
     {
@@ -643,8 +625,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.003",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.003"
       }
     },
     {
@@ -677,8 +658,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.004",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.004"
       }
     },
     {
@@ -711,8 +691,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.005",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.005"
       }
     },
     {
@@ -745,8 +724,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.006",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.006"
       }
     },
     {
@@ -779,8 +757,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.007",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.007"
       }
     },
     {
@@ -813,8 +790,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.R2.RU.008",
-        "cluster_code": "TIR"
+        "id": "TIR.R2.RU.008"
       }
     },
     {
@@ -847,8 +823,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.001"
       }
     },
     {
@@ -881,8 +856,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.002"
       }
     },
     {
@@ -915,8 +889,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.003"
       }
     },
     {
@@ -949,8 +922,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.004"
       }
     },
     {
@@ -983,8 +955,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.005"
       }
     },
     {
@@ -1017,8 +988,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.006"
       }
     },
     {
@@ -1051,8 +1021,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.007"
       }
     },
     {
@@ -1085,8 +1054,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.008"
       }
     },
     {
@@ -1119,8 +1087,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.009"
       }
     },
     {
@@ -1153,8 +1120,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.010"
       }
     },
     {
@@ -1187,8 +1153,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.011"
       }
     },
     {
@@ -1221,8 +1186,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.012"
       }
     },
     {
@@ -1255,8 +1219,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.013"
       }
     },
     {
@@ -1289,8 +1252,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.014",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.014"
       }
     },
     {
@@ -1323,8 +1285,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.015",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.015"
       }
     },
     {
@@ -1357,8 +1318,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.016",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.016"
       }
     },
     {
@@ -1391,8 +1351,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.017",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.017"
       }
     },
     {
@@ -1425,8 +1384,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.018",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.018"
       }
     },
     {
@@ -1459,8 +1417,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.019",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.019"
       }
     },
     {
@@ -1493,8 +1450,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.020",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.020"
       }
     },
     {
@@ -1527,8 +1483,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.021",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.021"
       }
     },
     {
@@ -1561,8 +1516,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.022",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.022"
       }
     },
     {
@@ -1595,8 +1549,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.023",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.023"
       }
     },
     {
@@ -1629,8 +1582,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.024",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.024"
       }
     },
     {
@@ -1663,8 +1615,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.025",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.025"
       }
     },
     {
@@ -1697,8 +1648,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.026",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.026"
       }
     },
     {
@@ -1731,8 +1681,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.027",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.027"
       }
     },
     {
@@ -1765,8 +1714,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.028",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.028"
       }
     },
     {
@@ -1799,8 +1747,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.029",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.029"
       }
     },
     {
@@ -1833,8 +1780,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A1.RS.030",
-        "cluster_code": "TIR"
+        "id": "TIR.A1.RS.030"
       }
     },
     {
@@ -1867,8 +1813,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.001"
       }
     },
     {
@@ -1901,8 +1846,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.002"
       }
     },
     {
@@ -1935,8 +1879,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.003"
       }
     },
     {
@@ -1969,8 +1912,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.004"
       }
     },
     {
@@ -2003,8 +1945,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.005"
       }
     },
     {
@@ -2037,8 +1978,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.006"
       }
     },
     {
@@ -2071,8 +2011,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.007"
       }
     },
     {
@@ -2105,8 +2044,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.008"
       }
     },
     {
@@ -2139,8 +2077,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.009"
       }
     },
     {
@@ -2173,8 +2110,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.010"
       }
     },
     {
@@ -2207,8 +2143,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.011"
       }
     },
     {
@@ -2241,8 +2176,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.012"
       }
     },
     {
@@ -2275,8 +2209,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.013"
       }
     },
     {
@@ -2309,8 +2242,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.014",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.014"
       }
     },
     {
@@ -2343,8 +2275,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.015",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.015"
       }
     },
     {
@@ -2377,8 +2308,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.016",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.016"
       }
     },
     {
@@ -2411,8 +2341,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.017",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.017"
       }
     },
     {
@@ -2445,8 +2374,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.018",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.018"
       }
     },
     {
@@ -2479,8 +2407,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.019",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.019"
       }
     },
     {
@@ -2513,8 +2440,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.020",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.020"
       }
     },
     {
@@ -2547,8 +2473,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.021",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.021"
       }
     },
     {
@@ -2581,8 +2506,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.022",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.022"
       }
     },
     {
@@ -2615,8 +2539,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.023",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.023"
       }
     },
     {
@@ -2649,8 +2572,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.024",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.024"
       }
     },
     {
@@ -2683,8 +2605,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.025",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.025"
       }
     },
     {
@@ -2717,8 +2638,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.026",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.026"
       }
     },
     {
@@ -2751,8 +2671,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.027",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.027"
       }
     },
     {
@@ -2785,8 +2704,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.028",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.028"
       }
     },
     {
@@ -2819,8 +2737,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.029",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.029"
       }
     },
     {
@@ -2853,8 +2770,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.030",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.030"
       }
     },
     {
@@ -2887,8 +2803,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.031",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.031"
       }
     },
     {
@@ -2921,8 +2836,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.032",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.032"
       }
     },
     {
@@ -2955,8 +2869,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.033",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.033"
       }
     },
     {
@@ -2989,8 +2902,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.034",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.034"
       }
     },
     {
@@ -3023,8 +2935,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.035",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.035"
       }
     },
     {
@@ -3057,8 +2968,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.036",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.036"
       }
     },
     {
@@ -3091,8 +3001,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.037",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.037"
       }
     },
     {
@@ -3125,8 +3034,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.038",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.038"
       }
     },
     {
@@ -3159,8 +3067,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.039",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.039"
       }
     },
     {
@@ -3193,8 +3100,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.040",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.040"
       }
     },
     {
@@ -3227,8 +3133,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.041",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.041"
       }
     },
     {
@@ -3261,8 +3166,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.042",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.042"
       }
     },
     {
@@ -3295,8 +3199,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.043",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.043"
       }
     },
     {
@@ -3329,8 +3232,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.044",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.044"
       }
     },
     {
@@ -3363,8 +3265,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.045",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.045"
       }
     },
     {
@@ -3397,8 +3298,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.046",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.046"
       }
     },
     {
@@ -3431,8 +3331,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.047",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.047"
       }
     },
     {
@@ -3465,8 +3364,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.048",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.048"
       }
     },
     {
@@ -3499,8 +3397,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.049",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.049"
       }
     },
     {
@@ -3533,8 +3430,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.050",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.050"
       }
     },
     {
@@ -3567,8 +3463,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.051",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.051"
       }
     },
     {
@@ -3601,8 +3496,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.052",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.052"
       }
     },
     {
@@ -3635,8 +3529,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.053",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.053"
       }
     },
     {
@@ -3669,8 +3562,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.054",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.054"
       }
     },
     {
@@ -3703,8 +3595,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.055",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.055"
       }
     },
     {
@@ -3737,8 +3628,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.056",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.056"
       }
     },
     {
@@ -3771,8 +3661,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.057",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.057"
       }
     },
     {
@@ -3805,8 +3694,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.058",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.058"
       }
     },
     {
@@ -3839,8 +3727,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A2.RS.059",
-        "cluster_code": "TIR"
+        "id": "TIR.A2.RS.059"
       }
     },
     {
@@ -3873,8 +3760,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.001"
       }
     },
     {
@@ -3907,8 +3793,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.002"
       }
     },
     {
@@ -3941,8 +3826,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.003"
       }
     },
     {
@@ -3975,8 +3859,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.004"
       }
     },
     {
@@ -4009,8 +3892,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.005"
       }
     },
     {
@@ -4043,8 +3925,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.006"
       }
     },
     {
@@ -4077,8 +3958,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.007"
       }
     },
     {
@@ -4111,8 +3991,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.008"
       }
     },
     {
@@ -4145,8 +4024,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.009"
       }
     },
     {
@@ -4179,8 +4057,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.010"
       }
     },
     {
@@ -4213,8 +4090,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.011"
       }
     },
     {
@@ -4247,8 +4123,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.012"
       }
     },
     {
@@ -4281,8 +4156,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.013"
       }
     },
     {
@@ -4315,8 +4189,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.014",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.014"
       }
     },
     {
@@ -4349,8 +4222,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.015",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.015"
       }
     },
     {
@@ -4383,8 +4255,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.016",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.016"
       }
     },
     {
@@ -4417,8 +4288,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.017",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.017"
       }
     },
     {
@@ -4451,8 +4321,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.018",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.018"
       }
     },
     {
@@ -4485,8 +4354,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.019",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.019"
       }
     },
     {
@@ -4519,8 +4387,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.020",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.020"
       }
     },
     {
@@ -4553,8 +4420,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.021",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.021"
       }
     },
     {
@@ -4587,8 +4453,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.022",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.022"
       }
     },
     {
@@ -4621,8 +4486,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.023",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.023"
       }
     },
     {
@@ -4655,8 +4519,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.024",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.024"
       }
     },
     {
@@ -4689,8 +4552,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.025",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.025"
       }
     },
     {
@@ -4723,8 +4585,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.026",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.026"
       }
     },
     {
@@ -4757,8 +4618,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.027",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.027"
       }
     },
     {
@@ -4791,8 +4651,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.028",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.028"
       }
     },
     {
@@ -4825,8 +4684,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.029",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.029"
       }
     },
     {
@@ -4859,8 +4717,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.030",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.030"
       }
     },
     {
@@ -4893,8 +4750,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.031",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.031"
       }
     },
     {
@@ -4927,8 +4783,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.032",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.032"
       }
     },
     {
@@ -4961,8 +4816,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.033",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.033"
       }
     },
     {
@@ -4995,8 +4849,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.034",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.034"
       }
     },
     {
@@ -5029,8 +4882,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.035",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.035"
       }
     },
     {
@@ -5063,8 +4915,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.036",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.036"
       }
     },
     {
@@ -5097,8 +4948,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.037",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.037"
       }
     },
     {
@@ -5131,8 +4981,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.038",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.038"
       }
     },
     {
@@ -5165,8 +5014,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.039",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.039"
       }
     },
     {
@@ -5199,8 +5047,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.040",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.040"
       }
     },
     {
@@ -5233,8 +5080,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.041",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.041"
       }
     },
     {
@@ -5267,8 +5113,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.042",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.042"
       }
     },
     {
@@ -5301,8 +5146,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.043",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.043"
       }
     },
     {
@@ -5335,8 +5179,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.044",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.044"
       }
     },
     {
@@ -5369,8 +5212,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.045",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.045"
       }
     },
     {
@@ -5403,8 +5245,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.046",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.046"
       }
     },
     {
@@ -5437,8 +5278,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.047",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.047"
       }
     },
     {
@@ -5471,8 +5311,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.048",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.048"
       }
     },
     {
@@ -5505,8 +5344,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.049",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.049"
       }
     },
     {
@@ -5539,8 +5377,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.A3.RS.050",
-        "cluster_code": "TIR"
+        "id": "TIR.A3.RS.050"
       }
     },
     {
@@ -5573,8 +5410,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.001A",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.001A"
       }
     },
     {
@@ -5607,8 +5443,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.001B",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.001B"
       }
     },
     {
@@ -5641,8 +5476,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.002"
       }
     },
     {
@@ -5675,8 +5509,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.003"
       }
     },
     {
@@ -5709,8 +5542,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.004"
       }
     },
     {
@@ -5743,8 +5575,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.005"
       }
     },
     {
@@ -5777,8 +5608,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.006"
       }
     },
     {
@@ -5811,8 +5641,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.007"
       }
     },
     {
@@ -5845,8 +5674,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.008"
       }
     },
     {
@@ -5879,8 +5707,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B1.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.B1.RS.009"
       }
     },
     {
@@ -5913,8 +5740,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.001"
       }
     },
     {
@@ -5947,8 +5773,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.002"
       }
     },
     {
@@ -5981,8 +5806,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.003"
       }
     },
     {
@@ -6015,8 +5839,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.004"
       }
     },
     {
@@ -6049,8 +5872,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.005"
       }
     },
     {
@@ -6083,8 +5905,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.006"
       }
     },
     {
@@ -6117,8 +5938,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.007"
       }
     },
     {
@@ -6151,8 +5971,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.008"
       }
     },
     {
@@ -6185,8 +6004,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.009"
       }
     },
     {
@@ -6219,8 +6037,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.010"
       }
     },
     {
@@ -6253,8 +6070,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.011"
       }
     },
     {
@@ -6287,8 +6103,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B2.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.B2.RS.012"
       }
     },
     {
@@ -6321,8 +6136,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.001"
       }
     },
     {
@@ -6355,8 +6169,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.002"
       }
     },
     {
@@ -6389,8 +6202,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.003"
       }
     },
     {
@@ -6423,8 +6235,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.004"
       }
     },
     {
@@ -6457,8 +6268,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.005"
       }
     },
     {
@@ -6491,8 +6301,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.006"
       }
     },
     {
@@ -6525,8 +6334,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.007"
       }
     },
     {
@@ -6559,8 +6367,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B3.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.B3.RS.008"
       }
     },
     {
@@ -6593,8 +6400,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.001"
       }
     },
     {
@@ -6627,8 +6433,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.002"
       }
     },
     {
@@ -6661,8 +6466,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.003"
       }
     },
     {
@@ -6695,8 +6499,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.004"
       }
     },
     {
@@ -6729,8 +6532,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.005"
       }
     },
     {
@@ -6763,8 +6565,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.006"
       }
     },
     {
@@ -6797,8 +6598,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.007"
       }
     },
     {
@@ -6831,8 +6631,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.008"
       }
     },
     {
@@ -6865,8 +6664,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.009"
       }
     },
     {
@@ -6899,8 +6697,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.B4.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.B4.RS.010"
       }
     },
     {
@@ -6933,8 +6730,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.001"
       }
     },
     {
@@ -6967,8 +6763,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.002"
       }
     },
     {
@@ -7001,8 +6796,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.003"
       }
     },
     {
@@ -7035,8 +6829,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.004"
       }
     },
     {
@@ -7069,8 +6862,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.005"
       }
     },
     {
@@ -7103,8 +6895,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.006"
       }
     },
     {
@@ -7137,8 +6928,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.007"
       }
     },
     {
@@ -7171,8 +6961,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.008"
       }
     },
     {
@@ -7205,8 +6994,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.009"
       }
     },
     {
@@ -7239,8 +7027,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.010"
       }
     },
     {
@@ -7273,8 +7060,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.011"
       }
     },
     {
@@ -7307,8 +7093,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.012"
       }
     },
     {
@@ -7341,8 +7126,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.013"
       }
     },
     {
@@ -7375,8 +7159,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.014",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.014"
       }
     },
     {
@@ -7409,8 +7192,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.015",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.015"
       }
     },
     {
@@ -7443,8 +7225,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.016",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.016"
       }
     },
     {
@@ -7477,8 +7258,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C1.RS.017",
-        "cluster_code": "TIR"
+        "id": "TIR.C1.RS.017"
       }
     },
     {
@@ -7511,8 +7291,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.001"
       }
     },
     {
@@ -7545,8 +7324,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.002"
       }
     },
     {
@@ -7579,8 +7357,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.003"
       }
     },
     {
@@ -7613,8 +7390,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.004"
       }
     },
     {
@@ -7647,8 +7423,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.005"
       }
     },
     {
@@ -7681,8 +7456,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.006"
       }
     },
     {
@@ -7715,8 +7489,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.007"
       }
     },
     {
@@ -7749,8 +7522,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.008"
       }
     },
     {
@@ -7783,8 +7555,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.009"
       }
     },
     {
@@ -7817,8 +7588,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.010"
       }
     },
     {
@@ -7851,8 +7621,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.011"
       }
     },
     {
@@ -7885,8 +7654,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.012"
       }
     },
     {
@@ -7919,8 +7687,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.013"
       }
     },
     {
@@ -7953,8 +7720,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.014",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.014"
       }
     },
     {
@@ -7987,8 +7753,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.015",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.015"
       }
     },
     {
@@ -8021,8 +7786,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.016",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.016"
       }
     },
     {
@@ -8055,8 +7819,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.017",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.017"
       }
     },
     {
@@ -8089,8 +7852,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C2.RS.018",
-        "cluster_code": "TIR"
+        "id": "TIR.C2.RS.018"
       }
     },
     {
@@ -8123,8 +7885,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.001"
       }
     },
     {
@@ -8157,8 +7918,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.002"
       }
     },
     {
@@ -8191,8 +7951,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.003"
       }
     },
     {
@@ -8225,8 +7984,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.004"
       }
     },
     {
@@ -8259,8 +8017,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.005"
       }
     },
     {
@@ -8293,8 +8050,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.006"
       }
     },
     {
@@ -8327,8 +8083,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.007"
       }
     },
     {
@@ -8361,8 +8116,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.008"
       }
     },
     {
@@ -8395,8 +8149,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C3.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.C3.RS.009"
       }
     },
     {
@@ -8429,8 +8182,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.001"
       }
     },
     {
@@ -8463,8 +8215,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.002"
       }
     },
     {
@@ -8497,8 +8248,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.003"
       }
     },
     {
@@ -8531,8 +8281,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.004"
       }
     },
     {
@@ -8565,8 +8314,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.005"
       }
     },
     {
@@ -8599,8 +8347,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.006"
       }
     },
     {
@@ -8633,8 +8380,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.007"
       }
     },
     {
@@ -8667,8 +8413,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.008"
       }
     },
     {
@@ -8701,8 +8446,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.009"
       }
     },
     {
@@ -8735,8 +8479,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.010"
       }
     },
     {
@@ -8769,8 +8512,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.011",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.011"
       }
     },
     {
@@ -8803,8 +8545,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.012"
       }
     },
     {
@@ -8837,8 +8578,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.013"
       }
     },
     {
@@ -8871,8 +8611,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.014",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.014"
       }
     },
     {
@@ -8905,8 +8644,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.015",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.015"
       }
     },
     {
@@ -8939,8 +8677,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.016",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.016"
       }
     },
     {
@@ -8973,8 +8710,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.017",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.017"
       }
     },
     {
@@ -9007,8 +8743,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.018",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.018"
       }
     },
     {
@@ -9041,8 +8776,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.019",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.019"
       }
     },
     {
@@ -9075,8 +8809,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.020",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.020"
       }
     },
     {
@@ -9109,8 +8842,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.021",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.021"
       }
     },
     {
@@ -9143,8 +8875,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.022",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.022"
       }
     },
     {
@@ -9177,8 +8908,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.023",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.023"
       }
     },
     {
@@ -9211,8 +8941,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.024",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.024"
       }
     },
     {
@@ -9245,8 +8974,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.025",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.025"
       }
     },
     {
@@ -9279,8 +9007,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.026",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.026"
       }
     },
     {
@@ -9313,8 +9040,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C4.RS.027",
-        "cluster_code": "TIR"
+        "id": "TIR.C4.RS.027"
       }
     },
     {
@@ -9347,8 +9073,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.001"
       }
     },
     {
@@ -9381,8 +9106,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.002"
       }
     },
     {
@@ -9415,8 +9139,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.003"
       }
     },
     {
@@ -9449,8 +9172,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.004"
       }
     },
     {
@@ -9483,8 +9205,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.005"
       }
     },
     {
@@ -9517,8 +9238,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.006"
       }
     },
     {
@@ -9551,8 +9271,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.007"
       }
     },
     {
@@ -9585,8 +9304,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C5.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.C5.RS.008"
       }
     },
     {
@@ -9619,8 +9337,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.001"
       }
     },
     {
@@ -9653,8 +9370,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.002"
       }
     },
     {
@@ -9687,8 +9403,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.003"
       }
     },
     {
@@ -9721,8 +9436,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.004"
       }
     },
     {
@@ -9755,8 +9469,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.005"
       }
     },
     {
@@ -9789,8 +9502,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.006"
       }
     },
     {
@@ -9823,8 +9535,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.007"
       }
     },
     {
@@ -9857,8 +9568,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.C6.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.C6.RS.008"
       }
     },
     {
@@ -9891,8 +9601,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.001",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.001"
       }
     },
     {
@@ -9925,8 +9634,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.002",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.002"
       }
     },
     {
@@ -9959,8 +9667,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.003",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.003"
       }
     },
     {
@@ -9993,8 +9700,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.004",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.004"
       }
     },
     {
@@ -10027,8 +9733,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.005",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.005"
       }
     },
     {
@@ -10061,8 +9766,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.006",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.006"
       }
     },
     {
@@ -10095,8 +9799,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.007",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.007"
       }
     },
     {
@@ -10129,8 +9832,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.008",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.008"
       }
     },
     {
@@ -10163,8 +9865,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.009",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.009"
       }
     },
     {
@@ -10197,8 +9898,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.010",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.010"
       }
     },
     {
@@ -10231,8 +9931,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.011A",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.011A"
       }
     },
     {
@@ -10265,8 +9964,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.011B",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.011B"
       }
     },
     {
@@ -10299,8 +9997,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.011C",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.011C"
       }
     },
     {
@@ -10333,8 +10030,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.012",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.012"
       }
     },
     {
@@ -10367,8 +10063,7 @@
         ]
       },
       "properties": {
-        "id": "TIR.D1.RS.013",
-        "cluster_code": "TIR"
+        "id": "TIR.D1.RS.013"
       }
     }
   ]
